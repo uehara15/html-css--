@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html>
 
+    <head>
+        <title>5章課題</title>
+        <mata name="description" content="このページは5章の課題です">
+        <mata charset="UTF-8">
+    </head>
+
+    <body>
+        <h1>私の趣味</h1>
+        <p>私は小学生時代に野球をしていました。
+        <br>現在は野球観戦を趣味にしていて、ベイスターズファンです。
+        </p>
+        <img src="ベイスターズ.jpg"><br>
+        <a href="https://x.com/samuraijuku">私のプロフィールはこちら</a>
+    </body>
+
+</html>
